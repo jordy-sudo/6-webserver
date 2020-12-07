@@ -1,0 +1,16 @@
+footer {
+    background-color: #353A3F;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 80px;
+}
